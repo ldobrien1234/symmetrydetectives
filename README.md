@@ -1,0 +1,2 @@
+# symmetrydetectives
+Symmetry Detectives Example
